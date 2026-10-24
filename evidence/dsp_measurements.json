@@ -1,0 +1,84 @@
+{
+  "parameterSensitivity": [
+    {
+      "parameter": "filter.0.cutoff_hz",
+      "differenceRms": 0.020322859678553
+    },
+    {
+      "parameter": "envelopes.amp.attack",
+      "differenceRms": 0.010406600371681
+    },
+    {
+      "parameter": "envelopes.amp.decay",
+      "differenceRms": 0.00501371694382
+    },
+    {
+      "parameter": "envelopes.amp.sustain",
+      "differenceRms": 0.022357001077313
+    },
+    {
+      "parameter": "envelopes.amp.release",
+      "differenceRms": 0.018753700243974
+    },
+    {
+      "parameter": "fm.index",
+      "differenceRms": 0.044110165449102
+    },
+    {
+      "parameter": "wavetable.position",
+      "differenceRms": 0.014864007793662
+    },
+    {
+      "parameter": "fm.ratio",
+      "differenceRms": 0.04043100323587
+    },
+    {
+      "parameter": "fm.feedback",
+      "differenceRms": 0.045121914265672
+    },
+    {
+      "parameter": "wavetable.scan_depth",
+      "differenceRms": 0.006748946410846
+    },
+    {
+      "parameter": "oscillators.0.pulse_width",
+      "differenceRms": 0.03794937853098
+    },
+    {
+      "parameter": "filter.1.cutoff_hz",
+      "differenceRms": 0.029751284218763
+    },
+    {
+      "parameter": "modulation.lfo1.rate_hz",
+      "differenceRms": 0.013074523747281
+    },
+    {
+      "parameter": "effects.chorus.mix",
+      "differenceRms": 0.020388816994363
+    },
+    {
+      "parameter": "effects.delay.mix",
+      "differenceRms": 0.018494116897031
+    },
+    {
+      "parameter": "effects.reverb.mix",
+      "differenceRms": 0.016781971927866
+    },
+    {
+      "parameter": "effects.distortion.mix",
+      "differenceRms": 0.046525828356693
+    }
+  ],
+  "unbentHz": 438.4,
+  "bentHz": 492.8,
+  "voices": 16,
+  "renderBlocks": 500,
+  "blockSize": 128,
+  "sampleRate": 48000,
+  "worstObservedRenderMicroseconds": 262.5,
+  "cppAudioAllocations": 0,
+  "cppAudioDeallocations": 0,
+  "allEightRoutesAudible": true,
+  "sequentialRefineUnrelatedFieldsExact": true,
+  "conditions": "Engine renders; no network, sample or preset reads. C++ allocation hooks do not instrument OS scheduling or all C malloc implementations; timing is one observed workload."
+}

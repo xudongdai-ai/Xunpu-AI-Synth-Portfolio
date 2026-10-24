@@ -1,0 +1,45 @@
+{
+  "scope": "selective public portfolio release",
+  "files": [
+    {
+      "path": "LICENSE",
+      "bytes": 430,
+      "sha256": "51fea7ad4d9cd9ea0007bbe4ba01a21fd612f762c725719daf577e19282e1867"
+    },
+    {
+      "path": "ATTRIBUTION.md",
+      "bytes": 550,
+      "sha256": "decfa5e45db3225a2a99f1075aa45e116dbad23b389ce6c9d9c1c58ad4a6005f"
+    },
+    {
+      "path": "README.md",
+      "bytes": 2385,
+      "sha256": "c22a74d119441005344d5e038499f9342220044d749af1375fb30c3903807998"
+    },
+    {
+      "path": ".gitignore",
+      "bytes": 70,
+      "sha256": "65ab7f6cf062218348b919179d257f9c2c834ac0a3b85415bb4c70e3d96f24c8"
+    },
+    {
+      "path": "DISCLOSURE.md",
+      "bytes": 579,
+      "sha256": "9c80c3453be38c43e2d4cdf113029376e353dd227134bdc0f93ade7b512d2376"
+    },
+    {
+      "path": "evidence/engineering_summary.json",
+      "bytes": 940,
+      "sha256": "497bbd13933800d51bf5260b03b7701ac26c3579d4cfb9cf5ded383af2719e77"
+    },
+    {
+      "path": "evidence/dsp_measurements.json",
+      "bytes": 2141,
+      "sha256": "9eece3a4088531b71231e71632372436bab69c3238f841fff17781a4e3f2bb5f"
+    },
+    {
+      "path": "examples/patch_summary.py",
+      "bytes": 722,
+      "sha256": "31d36419311521e01efc1abc80d3bd424b08070d92ba4d2915c8e0c024e31986"
+    }
+  ]
+}

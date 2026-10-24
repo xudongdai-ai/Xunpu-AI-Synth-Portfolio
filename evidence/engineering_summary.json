@@ -1,0 +1,25 @@
+{
+  "product": "Xunpu AI Synth Timbre 0.4 MVP",
+  "recorded_at": "2026-10-21T10:04:10.974865+00:00",
+  "machine": {
+    "cpu": "Apple M4",
+    "os": "macOS 27.0.1 (26A434)",
+    "build": "Release arm64",
+    "JUCE": "ea77444750de45e036e0279bb0291144bf8e3688"
+  },
+  "recorded_checks": {
+    "legacyVitest": 3971,
+    "legacyVitestFiles": 253,
+    "nativeContractAndBridgeFixtures": 14,
+    "dspCore": "pass",
+    "processor": "pass",
+    "AU": "auval -strict passed",
+    "VST3": "native JUCE host harness passed",
+    "npmBuild": "pass",
+    "specLint": "149 specs OK",
+    "nativeUI": "independent review ship, UI scope only",
+    "ChineseUtf8ChunkBoundary": "pass; actual loopback request split inside a Chinese UTF-8 code point",
+    "realProviderFamilies": "5 distinct actual local renders from independently designed init patches"
+  },
+  "scope": "Historical engineering records; not a perceptual study or complete DAW acceptance."
+}
