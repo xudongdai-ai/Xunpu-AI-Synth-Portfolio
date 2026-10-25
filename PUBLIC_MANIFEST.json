@@ -13,8 +13,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 2385,
-      "sha256": "c22a74d119441005344d5e038499f9342220044d749af1375fb30c3903807998"
+      "bytes": 4732,
+      "sha256": "6690a21074c999aa63552d54b2ca1a9cb003036b97a843ce57eeabe06546cd45"
     },
     {
       "path": ".gitignore",
@@ -40,6 +40,27 @@
       "path": "examples/patch_summary.py",
       "bytes": 722,
       "sha256": "31d36419311521e01efc1abc80d3bd424b08070d92ba4d2915c8e0c024e31986"
+    },
+    {
+      "path": "fad_0_5_measurements.json",
+      "bytes": 4422,
+      "sha256": "c2fd9ecc6dff4cee0bce89cf9a51caa841ff66f2123f0c0949d7699198432a05"
+    },
+    {
+      "path": "promo_horizontal_v2.mp4",
+      "bytes": 12926139,
+      "sha256": "054114cfeabf0371d48aa9c17adac9ca708e3abe3391df440c63b7b32608e4e8"
+    },
+    {
+      "path": "fad_0_5_architecture.svg",
+      "bytes": 2422,
+      "sha256": "07efb6b200c2c486c74b365aafc50e1f7c96189b8d4d5dabff199a1c6bc613dc"
+    },
+    {
+      "path": "FAD_0_5_RESEARCH.md",
+      "bytes": 1882,
+      "sha256": "b308a30cd603465e1ba7d177bd8a67644d3459838155dca99448629d2c68fe81"
     }
-  ]
+  ],
+  "updated_on": "2026-10-25"
 }
