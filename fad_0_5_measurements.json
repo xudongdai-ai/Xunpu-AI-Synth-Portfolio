@@ -1,0 +1,186 @@
+{
+  "recorded_on": "2026-10-25",
+  "source_revision": "f5260d8612a1533dfe6d2aeba2ab22a08880faa7",
+  "scope": "Selected local engineering measurements; not perceptual quality or production readiness",
+  "measurements": {
+    "parameterCount": 559,
+    "processorStateAndAB": true,
+    "workerWavExport": true,
+    "audioAndFxDuringDelayedHttp": true,
+    "parallelFxRouting": true,
+    "randomizedSeedRepeatAndDifference": true,
+    "fiveDesignsFiniteDistinct": true,
+    "seedBitExact": true,
+    "matrixRows": 32,
+    "lfos": 8,
+    "fxTypes": 13,
+    "cppAudioAllocations": 0,
+    "cppAudioDeallocations": 0,
+    "sensitivities": [
+      {
+        "test": "oscillators.0.waveform",
+        "differenceRms": 0.050442280991712
+      },
+      {
+        "test": "oscillators.0.unison_voices",
+        "differenceRms": 0.02130694818316
+      },
+      {
+        "test": "sub.enabled",
+        "differenceRms": 0.009153411587541
+      },
+      {
+        "test": "noise.enabled",
+        "differenceRms": 0.003177235889272
+      },
+      {
+        "test": "filter.cutoff_hz",
+        "differenceRms": 0.034997310939657
+      },
+      {
+        "test": "envelopes.amp.attack",
+        "differenceRms": 0.016056511790132
+      },
+      {
+        "test": "envelopes.amp.release",
+        "differenceRms": 0.025688023473745
+      },
+      {
+        "test": "wavetable warp",
+        "differenceRms": 0.014518617554345
+      },
+      {
+        "test": "wavetable position",
+        "differenceRms": 0.01946042215404
+      },
+      {
+        "test": "FM index/ratio",
+        "differenceRms": 0.048845216203104
+      },
+      {
+        "test": "cross ring",
+        "differenceRms": 0.009810003754204
+      },
+      {
+        "test": "filter native model",
+        "differenceRms": 0.016367721772934
+      },
+      {
+        "test": "LFO 1",
+        "differenceRms": 0.02788419718399
+      },
+      {
+        "test": "LFO 2",
+        "differenceRms": 0.02788419718399
+      },
+      {
+        "test": "LFO 3",
+        "differenceRms": 0.02788419718399
+      },
+      {
+        "test": "LFO 4",
+        "differenceRms": 0.02788419718399
+      },
+      {
+        "test": "LFO 5",
+        "differenceRms": 0.02788419718399
+      },
+      {
+        "test": "LFO 6",
+        "differenceRms": 0.02788419718399
+      },
+      {
+        "test": "LFO 7",
+        "differenceRms": 0.02788419718399
+      },
+      {
+        "test": "LFO 8",
+        "differenceRms": 0.02788419718399
+      },
+      {
+        "test": "FX type 1",
+        "differenceRms": 0.006357766861601
+      },
+      {
+        "test": "FX type 2",
+        "differenceRms": 0.0098562400121
+      },
+      {
+        "test": "FX type 3",
+        "differenceRms": 0.008941725488299
+      },
+      {
+        "test": "FX type 4",
+        "differenceRms": 0.002929176122609
+      },
+      {
+        "test": "FX type 5",
+        "differenceRms": 0.006518649913167
+      },
+      {
+        "test": "FX type 6",
+        "differenceRms": 0.000929119169328
+      },
+      {
+        "test": "FX type 7",
+        "differenceRms": 0.001631593968891
+      },
+      {
+        "test": "FX type 8",
+        "differenceRms": 0.007513026414166
+      },
+      {
+        "test": "FX type 9",
+        "differenceRms": 0.012860864199928
+      },
+      {
+        "test": "FX type 10",
+        "differenceRms": 0.008683792208312
+      },
+      {
+        "test": "FX type 11",
+        "differenceRms": 0.009440263076303
+      },
+      {
+        "test": "FX type 12",
+        "differenceRms": 0.008154091497997
+      },
+      {
+        "test": "FX type 13",
+        "differenceRms": 0.033015509175209
+      },
+      {
+        "test": "parallel versus serial FX graph",
+        "differenceRms": 0.00552571187944
+      },
+      {
+        "test": "white/pink noise",
+        "differenceRms": 0.001972715375231
+      },
+      {
+        "test": "pink/brown noise",
+        "differenceRms": 0.001714441071798
+      },
+      {
+        "test": "legato versus retrigger",
+        "differenceRms": 0.00990108651902
+      },
+      {
+        "test": "glide time",
+        "differenceRms": 0.169723738021233
+      },
+      {
+        "test": "square pulse width",
+        "differenceRms": 0.026963117776805
+      },
+      {
+        "test": "macro 8",
+        "differenceRms": 0.05227776434501
+      },
+      {
+        "test": "MPE per-channel pitch bend",
+        "differenceRms": 0.052283738353588
+      }
+    ]
+  }
+}
